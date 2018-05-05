@@ -1,4 +1,4 @@
 # cudaTemplate
-Template gerado com fins educacionais
+Template gerado para fins educacionais
 
-Este template teve como fim criar um template com puro HTML5 e CSS3.
+Template com HTML5 e CSS3 puro.
